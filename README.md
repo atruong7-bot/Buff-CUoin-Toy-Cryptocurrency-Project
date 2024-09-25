@@ -1,4 +1,3 @@
----
 
 # Buff-CUoin: Toy Cryptocurrency Project
 
@@ -78,5 +77,3 @@ The system provides a simple text-based interface with the following options:
 
 - Andrew Truong
 - Blaise Como
-
----
